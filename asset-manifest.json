@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dummyjson/static/css/main.7e3292ba.css",
+    "main.js": "/dummyjson/static/js/main.ff07cc0a.js",
+    "static/media/shop-add.svg": "/dummyjson/static/media/shop-add.4490dfe5174cb6625a72d9d1a83486fa.svg",
+    "static/media/eye-slash.svg": "/dummyjson/static/media/eye-slash.3fa31ad1ac36ae60a844a915a4079c6f.svg",
+    "static/media/shopping-cart.svg": "/dummyjson/static/media/shopping-cart.70096179f18d4a3a13cb8619b1b212c4.svg",
+    "static/media/trash.svg": "/dummyjson/static/media/trash.7cc226bcbc92b4d13fa6fdf15db7a393.svg",
+    "static/media/eye.svg": "/dummyjson/static/media/eye.0962c6390de1f1d724185e923234ca5a.svg",
+    "index.html": "/dummyjson/index.html",
+    "static/media/close-circle.svg": "/dummyjson/static/media/close-circle.91e203015c6d40fbf3fd3f5e15343561.svg",
+    "static/media/close-circle-white.svg": "/dummyjson/static/media/close-circle-white.0457e13362777c55ffe3fa790b42d4d4.svg",
+    "static/media/search-normal.svg": "/dummyjson/static/media/search-normal.6b040569afce24983044561e7fc03f8f.svg",
+    "main.7e3292ba.css.map": "/dummyjson/static/css/main.7e3292ba.css.map",
+    "main.ff07cc0a.js.map": "/dummyjson/static/js/main.ff07cc0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e3292ba.css",
+    "static/js/main.ff07cc0a.js"
+  ]
+}
