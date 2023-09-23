@@ -1,4 +1,4 @@
-# dummyjson
+# DummyJSON - Показ своих минимальных возможностей
 
 [Посмотреть на сайт | Check in deploy](https://internetwarrior.github.io/dummyjson/)
 
