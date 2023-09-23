@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dummyjson/static/css/main.733017fa.css",
-    "main.js": "/dummyjson/static/js/main.a8a704db.js",
+    "main.js": "/dummyjson/static/js/main.93c078ae.js",
     "static/media/shop-add.svg": "/dummyjson/static/media/shop-add.4490dfe5174cb6625a72d9d1a83486fa.svg",
     "static/media/eye-slash.svg": "/dummyjson/static/media/eye-slash.3fa31ad1ac36ae60a844a915a4079c6f.svg",
     "static/media/shopping-cart.svg": "/dummyjson/static/media/shopping-cart.70096179f18d4a3a13cb8619b1b212c4.svg",
@@ -12,10 +12,10 @@
     "static/media/close-circle-white.svg": "/dummyjson/static/media/close-circle-white.0457e13362777c55ffe3fa790b42d4d4.svg",
     "static/media/search-normal.svg": "/dummyjson/static/media/search-normal.6b040569afce24983044561e7fc03f8f.svg",
     "main.733017fa.css.map": "/dummyjson/static/css/main.733017fa.css.map",
-    "main.a8a704db.js.map": "/dummyjson/static/js/main.a8a704db.js.map"
+    "main.93c078ae.js.map": "/dummyjson/static/js/main.93c078ae.js.map"
   },
   "entrypoints": [
     "static/css/main.733017fa.css",
-    "static/js/main.a8a704db.js"
+    "static/js/main.93c078ae.js"
   ]
 }
