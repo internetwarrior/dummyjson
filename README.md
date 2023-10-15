@@ -2,7 +2,7 @@
 
 [Посмотреть на сайт | Check in deploy](https://internetwarrior.github.io/dummyjson/)
 
-[Посмотреть код | Look at the code] (https://github.com/internetwarrior/dummyjson/tree/main/the_code)
+[Посмотреть код | Look at the code](https://github.com/internetwarrior/dummyjson/tree/main/the_code)
 
 То, что использывалось:
 
