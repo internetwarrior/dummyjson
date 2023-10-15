@@ -6,10 +6,10 @@
 
 То, что использывалось:
 
-React
+- React
 
-React Router
+- React Router
 
-Tailwind CSS
+- Tailwind CSS
 
-Redux | Redux tooltik
+- Redux | Redux tooltik
